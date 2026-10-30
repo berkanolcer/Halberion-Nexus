@@ -1,0 +1,12 @@
+<Solution>
+ <Project Path="src/Halberion.Nexus.Core/Halberion.Nexus.Core.csproj"/>
+ <Project Path="src/Halberion.Nexus.Infrastructure/Halberion.Nexus.Infrastructure.csproj"/>
+ <Project Path="src/Legacy/Halberion.HotspotControl.Core/Halberion.HotspotControl.Core.csproj"/>
+ <Project Path="src/Legacy/Halberion.SystemControl.Core/Halberion.SystemControl.Core.csproj"/>
+ <Project Path="src/Legacy/Halberion.NetworkMonitor.Core/Halberion.NetworkMonitor.Core.csproj"/>
+ <Project Path="src/Legacy/Halberion.DeviceControl.Core/Halberion.DeviceControl.Core.csproj"/>
+ <Project Path="src/Legacy/Halberion.StorageManager.Core/Halberion.StorageManager.Core.csproj"/>
+ <Project Path="src/Halberion.Nexus.Modules/Halberion.Nexus.Modules.csproj"/>
+ <Project Path="src/Halberion.Nexus.App/Halberion.Nexus.App.csproj"/>
+ <Project Path="tests/Halberion.Nexus.Tests.csproj"/>
+</Solution>
