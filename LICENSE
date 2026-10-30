@@ -1,21 +1,85 @@
-MIT License
+HALBERION NEXUS SOURCE-AVAILABLE LICENSE
 
-Copyright (c) 2026 berkanolcer
+Copyright (c) 2023–2026 Azat Berkan Ölçer and Halberion Studio.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved except as expressly granted under this License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. Definitions
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"Software" means Halberion Nexus, including its source code, binaries, documentation, and associated files.
+
+"Licensors" means Azat Berkan Ölçer and Halberion Studio.
+
+"Derivative Work" means any modified or adapted version of the Software.
+
+## 2. Permitted Uses
+
+Subject to the conditions of this License, the Licensors grant you a worldwide, royalty-free, non-exclusive license to:
+
+- Download and use the Software free of charge.
+- Use the Software for personal, educational, and internal commercial business purposes.
+- View, study, and modify its source code.
+- Create Derivative Works.
+- Distribute the original Software or Derivative Works free of charge.
+
+## 3. Restrictions
+
+You may not:
+
+- Sell, rent, sublicense for a fee, or otherwise charge for copies of the Software or Derivative Works.
+- Charge license fees for access to the Software or Derivative Works.
+- Remove or alter original copyright or attribution notices.
+- Claim that you are the original developer of Halberion Nexus.
+- Represent a modified version as an official Halberion Studio release without prior written authorization.
+
+Commercial organizations may use the Software internally without paying a license fee.
+
+## 4. Attribution Requirements
+
+All distributed copies and Derivative Works must retain this License and the original copyright notice.
+
+Redistributed versions must prominently include:
+
+"Originally developed by Azat Berkan Ölçer and Halberion Studio."
+
+Derivative Works must clearly identify their modifications and their respective contributors.
+
+## 5. Ownership
+
+The Licensors retain their respective copyrights and other intellectual property rights in the original Software.
+
+Contributors retain rights in their original contributions, subject to applicable agreements.
+
+No trademark rights are granted under this License.
+
+## 6. Third-Party Components
+
+Third-party software components remain subject to their respective licenses.
+
+Nothing in this License overrides the rights or obligations established by applicable third-party licenses.
+
+## 7. Termination
+
+Your rights under this License terminate if you violate its conditions.
+
+Termination does not affect rights that cannot legally be revoked.
+
+## 8. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+## 9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSORS SHALL NOT BE LIABLE FOR DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+## 10. Prior Licenses
+
+This License does not retroactively revoke rights validly granted under previous licenses, including the MIT License.
+
+## 11. License Classification
+
+This is a custom source-available software license.
+
+It is not an OSI-approved open-source license.
+
+Copyright (c) 2023–2026 Azat Berkan Ölçer and Halberion Studio.
